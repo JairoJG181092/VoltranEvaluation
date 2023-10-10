@@ -1,0 +1,11 @@
+C:\Jairo\EvaluacionVoltron\EvaluacionVoltron\bin\Debug\EvaluacionVoltron.exe.config
+C:\Jairo\EvaluacionVoltron\EvaluacionVoltron\bin\Debug\EvaluacionVoltron.exe
+C:\Jairo\EvaluacionVoltron\EvaluacionVoltron\bin\Debug\EvaluacionVoltron.pdb
+C:\Jairo\EvaluacionVoltron\EvaluacionVoltron\obj\Debug\EvaluacionVoltron.csproj.AssemblyReference.cache
+C:\Jairo\EvaluacionVoltron\EvaluacionVoltron\obj\Debug\EvaluacionVoltron.csproj.SuggestedBindingRedirects.cache
+C:\Jairo\EvaluacionVoltron\EvaluacionVoltron\obj\Debug\EvaluacionVoltron.Form1.resources
+C:\Jairo\EvaluacionVoltron\EvaluacionVoltron\obj\Debug\EvaluacionVoltron.Properties.Resources.resources
+C:\Jairo\EvaluacionVoltron\EvaluacionVoltron\obj\Debug\EvaluacionVoltron.csproj.GenerateResource.cache
+C:\Jairo\EvaluacionVoltron\EvaluacionVoltron\obj\Debug\EvaluacionVoltron.csproj.CoreCompileInputs.cache
+C:\Jairo\EvaluacionVoltron\EvaluacionVoltron\obj\Debug\EvaluacionVoltron.exe
+C:\Jairo\EvaluacionVoltron\EvaluacionVoltron\obj\Debug\EvaluacionVoltron.pdb
